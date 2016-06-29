@@ -4,9 +4,4 @@
 
 ##How to play
 
-To play the game player one must add a word to
-```
-Game game = new Game("WordHere");
-```
-
-Please run this command `javac Hangman.java && java Hangman` in your terminal to compile and allow player 2 to guess.
+To play the game player one must compile using `javac Hangman.java && java Hangman "word here"` in your terminal. Please clear your terminal before passing the game to player 2 to guess!
